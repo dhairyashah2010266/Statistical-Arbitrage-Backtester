@@ -1,6 +1,6 @@
 # Statistical Arbitrage Backtester: Pairs Trading with Cointegration
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhairyashah2010266/Statistical-Arbitrage-Backtester/blob/main/Statistical_Arbitrage_Backtester.ipynb)
+
 
 A complete research pipeline for testing pairs-trading strategies. It screens stock pairs for cointegration, backtests the best ones on unseen data with a realistic cost model, and analyses *why* the strategy succeeds or fails.
 
